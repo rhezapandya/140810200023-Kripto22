@@ -1,1 +1,4 @@
-# 140810200023-Kripto22
+# Tugas Praktikum Kriptografi
+
+Rheza Pandya Andhikaputra
+140810200023
